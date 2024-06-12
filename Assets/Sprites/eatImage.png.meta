@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -127,7 +127,238 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: eatImage_0
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1649
+        width: 578
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68653ec96debdf47bbf9d26d7ee41dd
+      internalID: 1174683273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eatImage_1
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1650
+        width: 579
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbddf4863a4380642a4da0cb82d958bc
+      internalID: 456965560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eatImage_2
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 1646
+        width: 578
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f9b44beb5d3ff45b6c28586037dde3
+      internalID: 1662372917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eatImage_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 604
+        width: 713
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9990fe3843d5d439d1fc8a0222b3d7
+      internalID: 2008092342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eatImage_4
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1055
+        width: 668
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ef9b57b6af0a646925bc146a3699ce
+      internalID: -1746221543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eatImage_5
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1050
+        width: 673
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ae69da3396bc24aa5808ff072fc9e2
+      internalID: -2094639911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eatImage_6
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 1033
+        width: 666
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280cccae09f7606468f7c005ff2095cb
+      internalID: -546483509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eatImage_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 841
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784d3948d4ca4844d8ca0a44a4f6963d
+      internalID: 1683422653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eatImage_8
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 0
+        width: 464
+        height: 952
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468c9dce5a7dee842a9ef986e21176b3
+      internalID: -750395907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eatImage_9
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 0
+        width: 485
+        height: 952
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0220c46462fd50f48ba4b7202570dff3
+      internalID: 951286956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eatImage_10
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 0
+        width: 483
+        height: 947
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e3ebef49af2a94388708931b134cdc
+      internalID: 790606297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -138,7 +369,18 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      eatImage_8: -750395907
+      eatImage_6: -546483509
+      eatImage_3: 2008092342
+      eatImage_10: 790606297
+      eatImage_7: 1683422653
+      eatImage_2: 1662372917
+      eatImage_1: 456965560
+      eatImage_9: 951286956
+      eatImage_0: 1174683273
+      eatImage_5: -2094639911
+      eatImage_4: -1746221543
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
